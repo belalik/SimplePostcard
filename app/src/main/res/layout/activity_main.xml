@@ -25,7 +25,7 @@
         android:textColor="@android:color/white"
         android:paddingLeft="16dp"
         android:paddingTop="16dp"
-        android:textSize="32sp"
+        android:textSize="36sp"
         android:fontFamily="sans-serif-condensed"
 
         />
